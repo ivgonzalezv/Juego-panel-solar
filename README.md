@@ -40,17 +40,6 @@ npm run dev     # jugar en http://localhost:5173
 npm run build   # compilar a dist/ (archivo único, listo para publicar)
 ```
 
-## 🌐 Publicar en GitHub Pages (jugar en línea)
-
-Este repo incluye despliegue automático (`.github/workflows/deploy.yml`):
-
-1. Sube el código a GitHub (ver guía abajo).
-2. En tu repo: **Settings → Pages → Source → GitHub Actions**.
-3. Cada `push` a `main` compila y publica el juego en:
-
-```
-https://ivgonzalezv.github.io/Juego-panel-solar/
-```
 
 ## 📁 Estructura
 
